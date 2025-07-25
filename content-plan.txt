@@ -3,6 +3,7 @@ Content plan
   - ES6
   - Framework
     ^ ReactJS
+    ^ Vue
   - Data Structure
 * CSS
 * HTML
