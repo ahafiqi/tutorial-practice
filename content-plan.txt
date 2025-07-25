@@ -2,6 +2,8 @@ Content plan
 * JavaScript
   - ES6
   - Framework
+    ^ ReactJS
   - Data Structure
 * CSS
 * HTML
+* Version control system
