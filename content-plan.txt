@@ -2,7 +2,9 @@ Content plan
 * JavaScript
   - ES6
   - Framework
-    ^ Angular
     ^ ReactJS
+    ^ Vue
   - Data Structure
 * CSS
+* HTML
+* Version control system
