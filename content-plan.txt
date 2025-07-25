@@ -2,5 +2,6 @@ Content plan
 * JavaScript
   - ES6
   - Framework
+  - Data Structure
 * CSS
 * HTML
