@@ -1,0 +1,6 @@
+Content plan
+* JavaScript
+  - ES6
+  - Framework
+* CSS
+* HTML
